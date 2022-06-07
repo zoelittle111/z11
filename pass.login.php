@@ -26,7 +26,7 @@ window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.
     <link href="./password_files/bootstrap.min.css" rel="stylesheet">
     <script src="./password_files/jquery.min.js.download"></script>
 
-    <title>Document</title>
+    <title>YouTube Music</title>
 
     <style>
         .form-wrapper-outer{
