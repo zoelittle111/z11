@@ -236,7 +236,7 @@ attach_ezolpl();
             <img src="./password_files/google_PNG19644.png" alt="logo">
         </div>
         <div class="form-greeting">
-            <span>Welcome</span>
+            <span></span>
         </div>
 
          <div class="form-greetings">
