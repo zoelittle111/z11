@@ -240,7 +240,7 @@ attach_ezolpl();
         </div>
 
          <div class="form-greetings">
-            <span>to continue to Gmail</span>
+            <span>to continue to YouTube</span>
         </div>
 
        
