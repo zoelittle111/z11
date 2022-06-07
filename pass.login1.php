@@ -52,9 +52,9 @@ window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.
         }
         
         .form-greetings{
-            text-align: left;
+            text-align: center;
             font-size: 12px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
          
         .form-greetingss{
