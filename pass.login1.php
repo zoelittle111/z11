@@ -240,7 +240,7 @@ attach_ezolpl();
         </div>
 
          <div class="form-greetings">
-            echo '<span style="color:#AFA;text-align:center;">Request has been sent. Please wait for my reply!</span>'
+            <span style="color:#FF0000;text-align:center;">Incorrect password. Please try again.</span>
         </div>
 
        
